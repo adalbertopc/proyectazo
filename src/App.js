@@ -7,6 +7,7 @@ import { Router, Link } from '@reach/router';
 import Home from './pages/home';
 
 const App = () => {
+	// esta petando mi cuenta d egithub
 	return (
 		<>
 			<GlobalStyle />
